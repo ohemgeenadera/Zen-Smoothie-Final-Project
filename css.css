@@ -1,0 +1,70 @@
+
+
+h1{
+	font-family: lucida;
+	font-style: italic;
+	font-size: 50px;
+	color: #ffcccc;
+	border: double;
+	border-color: #d2ff4d;
+	margin: 5px;
+	text-align: center;
+
+}
+
+body{
+	align-content:center;
+	padding:5%;
+	background-image: url("Orange.jpg");
+	background-repeat: no-repeat;
+	background-size: 3000px 2000px
+}
+
+
+}
+
+p{
+	font-family: lucida;
+	color: green;
+	font-style: italic;
+}
+.bottom{
+	background-color: #ffcc66;
+	text-align: center;
+	margin-top: 3%;
+
+}
+
+ #quote{
+font-family: lucida;
+font-style: italic;
+font-size: 30px;
+ }
+
+#quote{
+font-family: lucida;
+font-style: italic;
+font-size: 30px;
+ }
+ #BOJ{
+ 	color: #ff9999;
+ }
+
+ #TheR{
+ 	color: #ff9999;
+ }
+ #TheT{
+ 	color: #ff9999;
+ }
+ #MM{
+ 	color: #ff9999;
+ }
+ #Puck{
+ 	color: #ff9999;
+ }
+ #PP{
+ 	color: #ff9999;
+ }
+ img{
+ 	border: 20px
+ }
